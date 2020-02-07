@@ -4,6 +4,8 @@
 
 I have designed this project for my Internet of Things (IoT) class at Sakarya University, December 2019. My main purpose is collecting data with IR sensors and send it to cloud platform using ESP8266 Wifi Module.
 
+#### Breadboard View
+
 #### Hardware Components
 - NodeMcu v3 (ESP8266)
 - IR Sensors

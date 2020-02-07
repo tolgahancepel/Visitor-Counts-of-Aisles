@@ -13,3 +13,6 @@ I have designed this project for my Internet of Things (IoT) class at Sakarya Un
 #### Software Components
 - Arduino IDE
 - ThingSpeak IoT Cloud Platform
+
+#### Poster
+<img src="https://github.com/tolgahancepel/Visitor-Counts-of-Aisles/blob/master/vector-poster.png" />

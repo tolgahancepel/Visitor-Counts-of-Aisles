@@ -2,7 +2,7 @@
 
 ### About
 
-I have designed this project for my Internet of Things (IoT) class at Sakarya University, December 2019. My main purpose is to collect data using a sensor, to send and visualize the data on an IoT cloud platform.
+I have designed this project for my Internet of Things (IoT) class at Sakarya University, December 2019. My main purpose is collecting data with IR sensors and send it to cloud platform using ESP8266 Wifi Module.
 
 #### Hardware Components
 - NodeMcu v3 (ESP8266)

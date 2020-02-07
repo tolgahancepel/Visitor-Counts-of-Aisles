@@ -15,4 +15,4 @@ I have designed this project for my Internet of Things (IoT) class at Sakarya Un
 - ThingSpeak IoT Cloud Platform
 
 #### Poster
-<img src="https://github.com/tolgahancepel/Visitor-Counts-of-Aisles/blob/master/vector-poster.png" />
+<img src="https://github.com/tolgahancepel/Visitor-Counts-of-Aisles/blob/master/vector-poster.png" width="500" />
